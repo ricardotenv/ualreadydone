@@ -1,2 +1,2 @@
 # ualreadydone
-Simple To-Do
+Simple To-Do manager
